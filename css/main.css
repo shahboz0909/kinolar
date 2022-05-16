@@ -1,0 +1,26 @@
+
+
+
+.pokemons-item {
+  width: 400px;
+  border: 3px solid;
+  border-radius: 5px;
+  padding: 20px;
+  border-color: rgb(8, 208, 8);
+}
+
+.ganres {
+  color: cornflowerblue;
+}
+.cast {
+  color: rgb(0, 179, 224);
+}
+.title {
+  color: forestgreen;
+}
+.year {
+  color: lightsalmon;
+}
+span {
+  color: black;
+}
